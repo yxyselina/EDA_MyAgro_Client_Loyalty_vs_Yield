@@ -3,7 +3,7 @@
 
 BA780 Project - TEAM B01 Client Loyalty ANALYSIS
 
-This is a class project using Google Colab using python. 
+This is a class project using python by Google Colab . 
 
 Contributor for this project including Lokendra Singh Badgujar, Srujana Gali, Xingyu Yao, Sarmad Kahut.
 
